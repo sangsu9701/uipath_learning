@@ -21265,9 +21265,9 @@
     "restore": {
       "projectUniqueName": "Classic_Version_Foundation_learning_Course",
       "projectName": "Classic_Version_Foundation_learning_Course",
-      "projectPath": "C:\\Users\\SANGSU\\Documents\\UiPath\\Classic_Version_Foundation_learning_Course\\.local",
+      "projectPath": "C:\\Users\\SANGSU\\Documents\\UiPath\\hello_world_uipath_1\\Classic_Version_Foundation_learning_Course\\.local",
       "packagesPath": "C:\\Users\\SANGSU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SANGSU\\Documents\\UiPath\\Classic_Version_Foundation_learning_Course\\.local"
+      "outputPath": "C:\\Users\\SANGSU\\Documents\\UiPath\\hello_world_uipath_1\\Classic_Version_Foundation_learning_Course\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

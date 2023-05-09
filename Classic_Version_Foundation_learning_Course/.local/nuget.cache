@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etBp4IYLnPvmEN+M9u1G4rEhpUhRVokQypVfoAtRcj+tKHc+slAlntkNpvUkJ202f73iTqzVnvUfCFMG0rqviw==",
+  "dgSpecHash": "DpUdd6mga5+tGp/+SHFu8/53MYU7EqLc9qL7fHpU1kk7O8gyLAi4LlwNuk48ybJkw2UD+l87iVtRis5Ot759hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SANGSU\\Documents\\UiPath\\Classic_Version_Foundation_learning_Course\\.local\\",
+  "projectFilePath": "C:\\Users\\SANGSU\\Documents\\UiPath\\hello_world_uipath_1\\Classic_Version_Foundation_learning_Course\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\SANGSU\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\SANGSU\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
