@@ -1,7 +1,7 @@
 {
   "name": "hello_world_uipath_1",
   "description": "입사 후 첫 uipath 스터디",
-  "main": "Main.xaml",
+  "main": "RPA_Developer_Foundation_ACME_System1.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.20.1]",
     "UiPath.Mail.Activities": "[1.18.2]",
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.4.0.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,13 +43,19 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
       "uniqueId": "36a17865-8c33-4796-a599-5bad45cd0e8a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "RPA_Developer_Foundation_ACME_System1.xaml",
+      "uniqueId": "1caf4aa5-5782-4613-85c6-d8bd67ee1cd1",
       "input": [],
       "output": []
     }

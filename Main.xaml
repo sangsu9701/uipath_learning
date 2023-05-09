@@ -57,14 +57,17 @@
       <AssemblyReference>System.ComponentModel</AssemblyReference>
       <AssemblyReference>System.Memory</AssemblyReference>
       <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Message box" sap:VirtualizedContainerService.HintSize="450,197.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Message box" sap:VirtualizedContainerService.HintSize="450,333.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="388,86.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Hello worlddd&quot;]" />
   </Sequence>
 </Activity>
