@@ -33,6 +33,110 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Arrays.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "StringArray&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "IfStatement.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isLeapYear&Sequence_1",
+        "Year&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LeapYearFlowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Year&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LeapYearSequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Message&Sequence_1",
+        "Year&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LoopsExample.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NewFileName&Sequence_2",
+        "InvoicesArray&Sequence_1",
+        "FolderPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Variables_DataTypes_ControlFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileName&Sequence_2",
+        "File&Sequence_2",
+        "InvoicesDirectory&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Practice1_FindTheSmallestAndBiggestNumbersInAnArray.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "MaxValue&Sequence_1",
+        "MinValue&Sequence_1",
+        "InitArray&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Practice2_AddingAndConcatenatingGenericValueVariables.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "D&Sequence_1",
+        "C&Sequence_1",
+        "B&Sequence_1",
+        "A&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Practice3_SeperateACollectionOfErrorCodesUsingSwitch.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cCodeArray&Sequence_2",
+        "bCodeArray&Sequence_2",
+        "aCodeArray&Sequence_2",
+        "InitArray&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
